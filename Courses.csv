@@ -1,0 +1,101 @@
+id,course_name,degree_id,college_dunia_link,target_study_link,careers_360_link,status,sequence,is_deleted,created_by,created_on,updated_on,updated_by
+1,"B.Com(Bachelor of commerce) / BCom",3,,,,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+2,"B.A. / BA",3,,,,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+3,"B.Arch (Bachelor of Architecture)",3,,,,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+4,"B.Des (Bachelor of Design)",3,,,,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+5,"B.Ed / BEd",3,,,,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+6,"B.Pharma / BPharma",3,,,,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+7,"B.Sc(Bachelor of Science) / BSc",3,,,,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+8,B.Tourism,3,,,,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+9,"BBA / BBM / BBS / BMS",3,,,,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+10,"BCA / BCM",3,,,,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+11,BDS,3,,,,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+12,"BE / B.Tech / BTech",3,,,,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+13,BFA,3,,,,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+14,BHM,3,,,,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+15,BJMC,3,,,,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+16,BVSc,3,,,,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+17,Diploma,3,,,,Active,0,No,0,"2023-05-15 06:22:21","2024-10-29 11:21:21",0
+18,LLB,3,,,,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+19,MBBS,3,,,,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+21,"Masters of Computer Applications (MCA)",2,,,,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+30,CA,2,,,,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+31,CS,2,,,,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+32,ICWA,2,,,,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+33,LLM,2,,,,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+34,"M.A (Master of Arts - MA)",2,,,,Active,0,No,0,"2023-05-15 06:22:21","2024-07-29 11:45:10",1
+35,M.Arch,2,,,,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+36,"M.Com / MCom",2,,,,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+37,M.D.,2,,,,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+38,M.Des,2,,,,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+39,"M.E(Master of Engineering)/M.Tech(Masters in Tech) / ME / MTech",2,,,,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+40,"M.Ed / MEd",2,,,,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+41,M.Ekistics,2,,,,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+42,"M.Pharma / MPharma",2,,,,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+43,M.Phil,2,,,,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+44,"M.Sc(Master of Science) / MSc",2,,,,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+45,M.Tourism,2,,,,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+46,"MBA / PGDM / MMS",2,,,,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+48,MDS,2,,,,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+49,"MFA (Masters of Fine Arts)",2,,,,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+50,"MHM (Masters in Hotel Management)",2,,,,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+51,"MJMC (Masters in Journalism & Mass Communication)",2,,,,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+52,"MVSc (Masters in Veternary & Science)",2,,,,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+53,"PG Diploma",2,,,,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+54,"MBE (Master of Business Economics)",2,,,,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+55,"MSW (Masters of Social Work)",2,,,,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+56,"MCM (Masters of Computer Management)",2,,,,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+57,Ph.D/Doctorate,1,,,,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+58,"MPHIL (Masters of Philosophy)",1,,,,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+71,"BBI (Bachelor of Banking and Insurance)",3,,,,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+72,"BAF (Bachelors of Accounting & Finance)",3,,,,Active,0,No,0,"2023-05-15 06:23:37","2024-04-25 15:55:26",0
+77,"B.Voc (Bachelor of Vocation)",3,,,,Active,0,No,0,"2023-06-15 15:30:53","2024-01-03 15:30:18",1986
+82,"PGPM (Post Graduate Program in Management)",2,,,,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+83,"BMM (Bachelor`s of Mass Media)",3,,,,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+84,"Integrated PG",2,,,,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+127,"BFM (Bachelors of Finance Management)",3,,,,In-active,0,No,0,"2023-05-15 06:23:37","2024-01-03 15:30:18",0
+128,"MBA (INTEGRATED)",2,,,,In-active,0,No,0,"2023-05-15 06:23:37","2024-01-03 15:30:18",0
+153,"APPLIED ARTS AND CRAFTS",4,,,,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+164,"APPLIED ARTS AND CRAFTS",2,,,,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+165,"APPLIED ARTS AND CRAFTS",3,,,,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+182,"BAMS (BACHELOR IN AYURVEDIC MEDICINE AND SURGERY)",3,,,,In-active,0,No,0,"2023-05-15 06:23:37","2024-01-03 15:30:18",0
+192,"ITI Courses",3,,,,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+240,"BHMS (Bachelor of Homeopathic Medicine and Surge",3,,,,In-active,0,No,0,"2023-05-15 06:23:37","2024-01-03 15:30:18",0
+265,"Bachelor of Industrial Design (B.I.D)",4,https://www.careers360.com/courses/bid-bachelor-of-interior-design,https://www.careers360.com/courses/bid-bachelor-of-interior-design,https://www.careers360.com/courses/bid-bachelor-of-interior-design,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+266,"Bachelor Of Mass Communication (BMC)",3,https://collegedunia.com/courses/bachelor-of-mass-communication-bmc,https://collegedunia.com/courses/bachelor-of-mass-communication-bmc,https://collegedunia.com/courses/bachelor-of-mass-communication-bmc,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+267,"MSC (Integrated)",2,https://www.careers360.com/university/university-of-mumbai-mumbai/msc-basic-sciences-integrated-course,https://www.careers360.com/university/university-of-mumbai-mumbai/msc-basic-sciences-integrated-course,https://www.careers360.com/university/university-of-mumbai-mumbai/msc-basic-sciences-integrated-course,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+268,B.S.,3,https://targetstudy.com/colleges/bs-economics-degree-colleges-in-india.html,https://targetstudy.com/colleges/bs-economics-degree-colleges-in-india.html,https://targetstudy.com/colleges/bs-economics-degree-colleges-in-india.html,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+269,"BMLT (Bachelor in Medical Laboratory Technology)",3,https://collegedunia.com/courses/bachelor-in-medical-laboratory-technology-bmlt,https://collegedunia.com/courses/bachelor-in-medical-laboratory-technology-bmlt,https://collegedunia.com/courses/bachelor-in-medical-laboratory-technology-bmlt,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+270,"DMLT (Diploma in medical laboratory and technology)",4,https://collegedunia.com/courses/diploma-in-medical-laboratory-technology-dmlt,https://collegedunia.com/courses/diploma-in-medical-laboratory-technology-dmlt,https://collegedunia.com/courses/diploma-in-medical-laboratory-technology-dmlt,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+271,"BPT (Bachelor of Physiotherapy)",3,"https://www.careers360.com/courses/bpt-bachelor-of-physiotherapy#:~:text=What%20is%20Bachelor%20of%20Physiotherapy,complete%20a%20six%20months%20internship.","https://www.careers360.com/courses/bpt-bachelor-of-physiotherapy#:~:text=What%20is%20Bachelor%20of%20Physiotherapy,complete%20a%20six%20months%20internship.","https://www.careers360.com/courses/bpt-bachelor-of-physiotherapy#:~:text=What%20is%20Bachelor%20of%20Physiotherapy,complete%20a%20six%20months%20internship.",Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+272,"BTECH AND MTECH DUAL DEGREE",4,https://www.careers360.com/courses/b-tech-dual-degree,https://www.careers360.com/courses/b-tech-dual-degree,https://www.careers360.com/courses/b-tech-dual-degree,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+273,"BAMMC (Bachelor of Arts Multi Media and Mass Communication)",3,https://www.careers360.com/colleges/vande-mataram-degree-college-dombivli/bammc-course,https://www.careers360.com/colleges/vande-mataram-degree-college-dombivli/bammc-course,https://www.careers360.com/colleges/vande-mataram-degree-college-dombivli/bammc-course,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+274,"Bachelor of Hotel Management and Catering Technology [BHMCT]",3,https://collegedunia.com/courses/bachelor-of-hotel-management-and-catering-technology-bhmct,https://collegedunia.com/courses/bachelor-of-hotel-management-and-catering-technology-bhmct,https://collegedunia.com/courses/bachelor-of-hotel-management-and-catering-technology-bhmct,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+275,"BTTM (Bachelor of Tourism and Travel Management)",3,https://www.careers360.com/courses/bttm-bachelor-of-tourism-and-travel-management,https://www.careers360.com/courses/bttm-bachelor-of-tourism-and-travel-management,https://www.careers360.com/courses/bttm-bachelor-of-tourism-and-travel-management,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+276,M.Voc,2,https://www.careers360.com/colleges/vikas-college-of-arts-science-and-commerce-mumbai/mvoc-medical-lab-technology-course,https://www.careers360.com/colleges/vikas-college-of-arts-science-and-commerce-mumbai/mvoc-medical-lab-technology-course,https://www.careers360.com/colleges/vikas-college-of-arts-science-and-commerce-mumbai/mvoc-medical-lab-technology-course,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+277,"B Pharm + MBA",2,https://collegedunia.com/courses/bachelor-of-pharmacy-bpharm-master-of-business-administration-mba,https://collegedunia.com/courses/bachelor-of-pharmacy-bpharm-master-of-business-administration-mba,https://collegedunia.com/courses/bachelor-of-pharmacy-bpharm-master-of-business-administration-mba,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+278,BCS,3,https://collegedunia.com/courses/bachelors-of-computer-science-bcs,https://collegedunia.com/courses/bachelors-of-computer-science-bcs,https://collegedunia.com/courses/bachelors-of-computer-science-bcs,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+280,BSTC,3,https://targetstudy.com/colleges/basic-school-training-certificate-bstc-certificate-colleges-in-maharashtra.html,https://targetstudy.com/colleges/basic-school-training-certificate-bstc-certificate-colleges-in-maharashtra.html,https://targetstudy.com/colleges/basic-school-training-certificate-bstc-certificate-colleges-in-maharashtra.html,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+281,"B.com (Hons)",3,https://www.careers360.com/courses/b-com-hons-bachelor-of-commerce-honors,https://www.careers360.com/courses/b-com-hons-bachelor-of-commerce-honors,https://www.careers360.com/courses/b-com-hons-bachelor-of-commerce-honors,Active,0,No,0,"2024-01-03 15:29:21","2024-01-03 15:30:18",0
+282,B.Lib.I.Sc,3,https://collegedunia.com/courses/bachelor-of-library-and-information-science-blibisc,https://collegedunia.com/courses/bachelor-of-library-and-information-science-blibisc,https://collegedunia.com/courses/bachelor-of-library-and-information-science-blibisc,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+283,D.Voc,4,https://www.careers360.com/colleges/mewat-engineering-college-mewat/dvoc-automobile-servicing-course,https://www.careers360.com/colleges/mewat-engineering-college-mewat/dvoc-automobile-servicing-coursehttps://www.careers360.com/colleges/mewat-engineering-college-mewat/dvoc-automobile-servicing-course,https://www.careers360.com/colleges/mewat-engineering-college-mewat/dvoc-automobile-servicing-course,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+284,"BA B.Ed",4,https://www.careers360.com/courses/ba-b-ed-dual-degree,https://www.careers360.com/courses/ba-b-ed-dual-degree,https://www.careers360.com/courses/ba-b-ed-dual-degree,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+285,"B.Sc B.Ed",4,https://www.careers360.com/courses/bsc-b-ed-dual-degree,https://www.careers360.com/courses/bsc-b-ed-dual-degree,https://www.careers360.com/courses/bsc-b-ed-dual-degree,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+286,"Executive MBA",2,https://www.careers360.com/courses/executive-mba,https://www.careers360.com/courses/executive-mba,https://www.careers360.com/courses/executive-mba,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+287,MHA,2,https://medicine.careers360.com/colleges/list-of-mha-in-hospital-administration-colleges-in-maharashtra,https://medicine.careers360.com/colleges/list-of-mha-in-hospital-administration-colleges-in-maharashtra,https://medicine.careers360.com/colleges/list-of-mha-in-hospital-administration-colleges-in-maharashtra,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+288,HDCM,4,https://targetstudy.com/colleges/diploma-in-co-operative-management-diploma-colleges-in-maharashtra.html,https://targetstudy.com/colleges/diploma-in-co-operative-management-diploma-colleges-in-maharashtra.html,https://targetstudy.com/colleges/diploma-in-co-operative-management-diploma-colleges-in-maharashtra.html,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+289,MPT,2,https://www.careers360.com/courses/mpt-master-of-physiotherapy,https://www.careers360.com/courses/mpt-master-of-physiotherapy,https://www.careers360.com/courses/mpt-master-of-physiotherapy,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+290,M.Plan,2,https://collegedunia.com/courses/master-of-planning-urban-and-regional-planning,https://collegedunia.com/courses/master-of-planning-urban-and-regional-planning,https://collegedunia.com/courses/master-of-planning-urban-and-regional-planning,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+291,"Master of Public Health (M.P.H)",2,https://www.careers360.com/courses/mph-master-of-public-health,https://www.careers360.com/courses/mph-master-of-public-health,https://www.careers360.com/courses/mph-master-of-public-health,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+292,"B.B.A. (Hons)",4,https://collegedunia.com/courses/bachelor-of-business-administration-bba-hons,https://collegedunia.com/courses/bachelor-of-business-administration-bba-hons,https://collegedunia.com/courses/bachelor-of-business-administration-bba-hons,Active,0,No,0,"2023-05-15 06:22:21","2024-01-03 15:30:18",0
+293,"Diploma in Electrical Engineering",4,,,,In-active,0,No,0,"2023-05-15 06:23:37","2024-01-03 15:30:18",0
+294,"Diploma in Electrical Engineering",4,,,,Active,0,No,0,"2023-05-15 06:23:37","2024-07-25 05:52:43",0
+295,Diploma,4,,,,In-active,0,No,0,"2023-05-15 06:23:37","2024-10-29 11:21:21",0
+296,BCCA,3,NULL,NULL,NULL,Active,NULL,No,1986,"2023-06-23 10:10:48","2024-01-03 15:30:18",0
+297,"Bachelor of Social Work (BSW / B.S.W)",4,NULL,NULL,NULL,Active,NULL,No,1584,"2024-01-29 10:18:12","2024-01-29 10:18:12",0
+298,"Bachelor of Visual Arts (BVA / B.V.A)",4,NULL,NULL,NULL,Active,NULL,No,1584,"2024-01-29 10:19:00","2024-01-29 10:19:00",0
+299,"Diploma in digital marketing",4,NULL,NULL,NULL,Active,NULL,No,1,"2024-01-31 18:59:01","2024-01-31 18:59:01",0
+300,"BFSc ( Bachelor of Fisheries Science )",4,NULL,NULL,NULL,Active,NULL,No,1584,"2024-02-09 18:12:16","2024-02-09 18:12:16",0
+301,"Diploma in Automobile Engineering",4,NULL,NULL,NULL,Active,NULL,No,1,"2024-03-22 15:32:30","2024-03-22 15:32:30",0
+302,"Diploma in Mechanical Engineering",4,NULL,NULL,NULL,Active,NULL,No,1,"2024-08-01 15:52:52","2024-08-01 10:22:52",0
+303,"B.A (Hons)",4,NULL,NULL,NULL,Active,NULL,No,1,"2024-11-04 17:11:43","2024-11-04 17:11:43",0
