@@ -1,61 +1,46 @@
-import mysql.connector
+import pickle
 import pandas as pd
+from pathlib import Path
 import sys
 import msvcrt
 
-# ===== Database Connection =====
-db_config = {
-    'host': 'localhost',
-    'user': 'root',           # Update with your MySQL username
-    'password': '',           # Update with your MySQL password
-    'database': 'course_db'   # Update with your database name
-}
+# ===== Load Artifacts =====
+BASE = Path("ml_suggestion_module")
+vectorizer = pickle.load(open(BASE / "vectorizer.pkl", "rb"))
+nn = pickle.load(open(BASE / "nn_model.pkl", "rb"))
+courses_df = pd.read_csv(BASE / "courses_lookup.csv")
 
-def load_courses_from_db():
-    try:
-        conn = mysql.connector.connect(**db_config)
-        query = "SELECT course_name FROM courses WHERE status = 'Active'"
-        courses_df = pd.read_sql(query, conn)
-        conn.close()
-        
-        # Add preprocessed column
-        courses_df['course_preproc'] = courses_df['course_name'].str.lower().str.strip()
-        return courses_df
-    except mysql.connector.Error as e:
-        print(f"Database connection failed: {e}")
-        print("Falling back to CSV file...")
-        # Fallback to CSV
-        courses_df = pd.read_csv("ml_suggestion_module/courses_lookup.csv")
-        return courses_df
-
-courses_df = load_courses_from_db()
-
-def suggest_from_db(query, k=None):
+def suggest(query, k=None):
     q_proc = query.lower().strip()
+    # Remove dots for better matching (e.g., "b.e" -> "be")
+    q_proc_no_dots = q_proc.replace('.', '')
     results = []
     
     for idx, row in courses_df.iterrows():
         course_name = row["course_name"]
-        cname_norm = row["course_preproc"]
+        cname_norm = row["course_normalized"]
+        # Also create a version without dots for comparison
+        cname_no_dots = cname_norm.replace('.', '')
         
-        # Simple prefix and word matching
+        # Enhanced matching logic
         score = 0
-        # Remove dots and special chars for better matching
-        clean_name = cname_norm.replace('.', '').replace('(', ' ').replace(')', ' ')
-        clean_words = clean_name.split()
         
-        if cname_norm.startswith(q_proc) or clean_name.startswith(q_proc):
+        # Check exact prefix matches (with and without dots)
+        if cname_norm.startswith(q_proc) or cname_no_dots.startswith(q_proc_no_dots):
             score = 0.9  # High score for prefix match
-        elif any(word.startswith(q_proc) for word in clean_words):
+        # Check if any word starts with query (with and without dots)
+        elif any(word.startswith(q_proc) or word.startswith(q_proc_no_dots) for word in cname_norm.split()) or \
+             any(word.startswith(q_proc) or word.startswith(q_proc_no_dots) for word in cname_no_dots.split()):
             score = 0.7  # Good score for word start match
-        elif q_proc in cname_norm or q_proc in clean_name:
+        # Check substring matches
+        elif q_proc in cname_norm or q_proc_no_dots in cname_no_dots:
             score = 0.3  # Lower score for substring match
         
         if score > 0:
             results.append((course_name, score))
     
-    # Sort by score
-    results.sort(key=lambda x: x[1], reverse=True)
+    # Sort by score, then alphabetically
+    results.sort(key=lambda x: (-x[1], x[0]))
     if k:
         results = results[:k]
     return results
@@ -68,7 +53,7 @@ import msvcrt
 def get_realtime_suggestions(query):
     if len(query) == 0:
         return []
-    suggestions = suggest_from_db(query, k=20)
+    suggestions = suggest(query, k=20)
     return suggestions
 
 # ===== Real-time Interactive Mode =====
@@ -103,7 +88,7 @@ while True:
             suggestions = get_realtime_suggestions(current_input)
             if suggestions:
                 print(f"\nSuggestions ({len(suggestions)}):")
-                for name, score in suggestions:  # Show all suggestions
+                for name, score in suggestions[:8]:  # Show top 8
                     print(f"  {name} ({int(score*100)}%)")
             else:
                 print("\nNo matches found")

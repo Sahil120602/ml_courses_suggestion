@@ -1,101 +1,101 @@
-course_name
-B.Com(Bachelor of commerce) / BCom
-B.A. / BA
-B.Arch (Bachelor of Architecture)
-B.Des (Bachelor of Design)
-B.Ed / BEd
-B.Pharma / BPharma
-B.Sc(Bachelor of Science) / BSc
-B.Tourism
-BBA / BBM / BBS / BMS
-BCA / BCM
-BDS
-BE / B.Tech / BTech
-BFA
-BHM
-BJMC
-BVSc
-Diploma
-LLB
-MBBS
-Masters of Computer Applications (MCA)
-CA
-CS
-ICWA
-LLM
-M.A (Master of Arts - MA)
-M.Arch
-M.Com / MCom
-M.D.
-M.Des
-M.E(Master of Engineering)/M.Tech(Masters in Tech) / ME / MTech
-M.Ed / MEd
-M.Ekistics
-M.Pharma / MPharma
-M.Phil
-M.Sc(Master of Science) / MSc
-M.Tourism
-MBA / PGDM / MMS
-MDS
-MFA (Masters of Fine Arts)
-MHM (Masters in Hotel Management)
-MJMC (Masters in Journalism & Mass Communication)
-MVSc (Masters in Veternary & Science)
-PG Diploma
-MBE (Master of Business Economics)
-MSW (Masters of Social Work)
-MCM (Masters of Computer Management)
-Ph.D/Doctorate
-MPHIL (Masters of Philosophy)
-BBI (Bachelor of Banking and Insurance)
-BAF (Bachelors of Accounting & Finance)
-B.Voc (Bachelor of Vocation)
-PGPM (Post Graduate Program in Management)
-BMM (Bachelor`s of Mass Media)
-Integrated PG
-BFM (Bachelors of Finance Management)
-MBA (INTEGRATED)
-APPLIED ARTS AND CRAFTS
-APPLIED ARTS AND CRAFTS
-APPLIED ARTS AND CRAFTS
-BAMS (BACHELOR IN AYURVEDIC MEDICINE AND SURGERY)
-ITI Courses
-BHMS (Bachelor of Homeopathic Medicine and Surge
-Bachelor of Industrial Design (B.I.D)
-Bachelor Of Mass Communication (BMC)
-MSC (Integrated)
-B.S.
-BMLT (Bachelor in Medical Laboratory Technology)
-DMLT (Diploma in medical laboratory and technology)
-BPT (Bachelor of Physiotherapy)
-BTECH AND MTECH DUAL DEGREE
-BAMMC (Bachelor of Arts Multi Media and Mass Communication)
-Bachelor of Hotel Management and Catering Technology [BHMCT]
-BTTM (Bachelor of Tourism and Travel Management)
-M.Voc
-B Pharm + MBA
-BCS
-BSTC
-B.com (Hons)
-B.Lib.I.Sc
-D.Voc
-BA B.Ed
-B.Sc B.Ed
-Executive MBA
-MHA
-HDCM
-MPT
-M.Plan
-Master of Public Health (M.P.H)
-B.B.A. (Hons)
-Diploma in Electrical Engineering
-Diploma in Electrical Engineering
-Diploma
-BCCA
-Bachelor of Social Work (BSW / B.S.W)
-Bachelor of Visual Arts (BVA / B.V.A)
-Diploma in digital marketing
-BFSc ( Bachelor of Fisheries Science )
-Diploma in Automobile Engineering
-Diploma in Mechanical Engineering
-B.A (Hons)
+course_name,course_normalized
+B.Com(Bachelor of commerce) / BCom,bcombachelor of commerce bcom
+B.A. / BA,ba ba
+B.Arch (Bachelor of Architecture),barch bachelor of architecture
+B.Des (Bachelor of Design),bdes bachelor of design
+B.Ed / BEd,bed bed
+B.Pharma / BPharma,bpharma bpharma
+B.Sc(Bachelor of Science) / BSc,bscbachelor of science bsc
+B.Tourism,btourism
+BBA / BBM / BBS / BMS,bba bbm bbs bms
+BCA / BCM,bca bcm
+BDS,bds
+BE / B.Tech / BTech,be btech btech
+BFA,bfa
+BHM,bhm
+BJMC,bjmc
+BVSc,bvsc
+Diploma,diploma
+LLB,llb
+MBBS,mbbs
+Masters of Computer Applications (MCA),masters of computer applications mca
+CA,ca
+CS,cs
+ICWA,icwa
+LLM,llm
+M.A (Master of Arts - MA),ma master of arts ma
+M.Arch,march
+M.Com / MCom,mcom mcom
+M.D.,md
+M.Des,mdes
+M.E(Master of Engineering)/M.Tech(Masters in Tech) / ME / MTech,memaster of engineeringmtechmasters in tech me mtech
+M.Ed / MEd,med med
+M.Ekistics,mekistics
+M.Pharma / MPharma,mpharma mpharma
+M.Phil,mphil
+M.Sc(Master of Science) / MSc,mscmaster of science msc
+M.Tourism,mtourism
+MBA / PGDM / MMS,mba pgdm mms
+MDS,mds
+MFA (Masters of Fine Arts),mfa masters of fine arts
+MHM (Masters in Hotel Management),mhm masters in hotel management
+MJMC (Masters in Journalism & Mass Communication),mjmc masters in journalism mass communication
+MVSc (Masters in Veternary & Science),mvsc masters in veternary science
+PG Diploma,pg diploma
+MBE (Master of Business Economics),mbe master of business economics
+MSW (Masters of Social Work),msw masters of social work
+MCM (Masters of Computer Management),mcm masters of computer management
+Ph.D/Doctorate,phddoctorate
+MPHIL (Masters of Philosophy),mphil masters of philosophy
+BBI (Bachelor of Banking and Insurance),bbi bachelor of banking and insurance
+BAF (Bachelors of Accounting & Finance),baf bachelors of accounting finance
+B.Voc (Bachelor of Vocation),bvoc bachelor of vocation
+PGPM (Post Graduate Program in Management),pgpm post graduate program in management
+BMM (Bachelor`s of Mass Media),bmm bachelors of mass media
+Integrated PG,integrated pg
+BFM (Bachelors of Finance Management),bfm bachelors of finance management
+MBA (INTEGRATED),mba integrated
+APPLIED ARTS AND CRAFTS,applied arts and crafts
+APPLIED ARTS AND CRAFTS,applied arts and crafts
+APPLIED ARTS AND CRAFTS,applied arts and crafts
+BAMS (BACHELOR IN AYURVEDIC MEDICINE AND SURGERY),bams bachelor in ayurvedic medicine and surgery
+ITI Courses,iti courses
+BHMS (Bachelor of Homeopathic Medicine and Surge,bhms bachelor of homeopathic medicine and surge
+Bachelor of Industrial Design (B.I.D),bachelor of industrial design bid
+Bachelor Of Mass Communication (BMC),bachelor of mass communication bmc
+MSC (Integrated),msc integrated
+B.S.,bs
+BMLT (Bachelor in Medical Laboratory Technology),bmlt bachelor in medical laboratory technology
+DMLT (Diploma in medical laboratory and technology),dmlt diploma in medical laboratory and technology
+BPT (Bachelor of Physiotherapy),bpt bachelor of physiotherapy
+BTECH AND MTECH DUAL DEGREE,btech and mtech dual degree
+BAMMC (Bachelor of Arts Multi Media and Mass Communication),bammc bachelor of arts multi media and mass communication
+Bachelor of Hotel Management and Catering Technology [BHMCT],bachelor of hotel management and catering technology bhmct
+BTTM (Bachelor of Tourism and Travel Management),bttm bachelor of tourism and travel management
+M.Voc,mvoc
+B Pharm + MBA,b pharm mba
+BCS,bcs
+BSTC,bstc
+B.com (Hons),bcom hons
+B.Lib.I.Sc,blibisc
+D.Voc,dvoc
+BA B.Ed,ba bed
+B.Sc B.Ed,bsc bed
+Executive MBA,executive mba
+MHA,mha
+HDCM,hdcm
+MPT,mpt
+M.Plan,mplan
+Master of Public Health (M.P.H),master of public health mph
+B.B.A. (Hons),bba hons
+Diploma in Electrical Engineering,diploma in electrical engineering
+Diploma in Electrical Engineering,diploma in electrical engineering
+Diploma,diploma
+BCCA,bcca
+Bachelor of Social Work (BSW / B.S.W),bachelor of social work bsw bsw
+Bachelor of Visual Arts (BVA / B.V.A),bachelor of visual arts bva bva
+Diploma in digital marketing,diploma in digital marketing
+BFSc ( Bachelor of Fisheries Science ),bfsc bachelor of fisheries science
+Diploma in Automobile Engineering,diploma in automobile engineering
+Diploma in Mechanical Engineering,diploma in mechanical engineering
+B.A (Hons),ba hons

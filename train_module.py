@@ -4,6 +4,7 @@ from pathlib import Path
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.neighbors import NearestNeighbors
 
+
 # ===== Config =====
 DATA_PATH = "Courses.csv"   # Your CSV file
 OUT_DIR = Path("ml_suggestion_module")
